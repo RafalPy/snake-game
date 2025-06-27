@@ -3,7 +3,7 @@ A simple implementation of the classic Snake game using Python and the pygame li
 
 Classic snake mechanics: eat food, grow longer, avoid collisions
 Score tracking
-Game Over screen
-Adjustable speed and grid size
+Adjustable speed and grid size (through code:))
 
-Use the snake/dist/snake_game.exe file or the snake_game.py file in bash.
+** To run the game **
+>Use the snake/dist/snake_game.exe file or the snake_game.py file in bash.
