@@ -8,3 +8,5 @@ Adjustable speed and grid size (through code:))
 
 ### To run the game
 >Use the snake/dist/snake_game.exe file or the snake_game.py file in bash.
+
+Good luck! 
